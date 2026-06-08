@@ -1,4 +1,5 @@
-​📝 Predictive Text Generator using RNN
+​LINK[https://predictive-text-generator-model-1.onrender.com]
+📝 Predictive Text Generator using RNN
 ​This repository features a Deep Learning model built to predict the next word or character in a sequence. Using Recurrent Neural Networks (RNN), the model learns the statistical structure of the input text to generate human-like continuations.
 
 ​🚀 Overview
